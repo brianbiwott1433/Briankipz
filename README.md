@@ -1,3 +1,3 @@
 # Briankipz
-Welcome 
-generate here
++shift generate here
+https://GitHub.com
