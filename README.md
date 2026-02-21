@@ -1,4 +1,2 @@
-Name: BRIAN-TECH 
-owner: BRIAN 
-Owner:0793684491
+BRIAN-TECH 
 
